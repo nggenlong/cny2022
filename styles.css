@@ -16,7 +16,7 @@ img{
     height: 20%;
 }
 table{
-    padding-top: 80px;
+    padding-top: 5vh;
     margin: auto;
     height: 30vh;
     border-spacing: 20px;
@@ -31,13 +31,12 @@ td{
     padding: 0px;
 }
 h2 {
-    margin-top:  15px;
-    margin-bottom: 100px;
-    font-size: 5vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    font-size: 4vh;
     font-weight: 700;
     text-transform: uppercase;
     word-spacing: 6px;
-    font-size: 2vh;
 }
 button {
     background-color: rgb(201, 171, 0);
